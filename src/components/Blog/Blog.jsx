@@ -28,8 +28,8 @@ const Blog = () => {
         }
     }
 
-    // Handle Bookmarked blogs;
-    const handleBookmarkedBlog = (blog_title) => {
+    // Handle Bookmarked blog//
+    const handleBookmarkedBlog  = (blog_title) => {
         if (!bookmarked.includes(blog_title)) {
             setBookmarked([...bookmarked, blog_title]);
           }
