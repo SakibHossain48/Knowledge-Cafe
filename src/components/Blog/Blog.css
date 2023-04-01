@@ -11,7 +11,7 @@
     /* width: 34vw; */
     padding: 30px 20px;
 }
-
+/*  mobile responsive */
 @media screen and (max-width:576px) {
     .blog {
         grid-template-columns: 1fr;
