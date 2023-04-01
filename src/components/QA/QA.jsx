@@ -18,7 +18,7 @@ const QA = () => {
             </div>
             <div className='p-2  rounded m-2'>
                 <h2 className='text-2xl font-semibold'>Purpose of useEffect()</h2>
-                <p>It allows us to execute some code after rendering our component, such as updating the DOM, fetching data from an API.</p>
+                <p>It allows us to execute some code after rendering our component, such as updating the DOM, fetching data from  API.</p>
             </div>
             <div className='p-2  rounded m-2'>
                 <h2 className='text-2xl font-semibold'>How does react works ?</h2>
